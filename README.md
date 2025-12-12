@@ -9,10 +9,9 @@ This project analyzes retail sales performance using Power BI to evaluate total 
 - Profit Margin: 15%  
 - Sales distribution is balanced across categories.  
 - Regional performance is uneven, showing expansion opportunities.  
-:contentReference[oaicite:1]{index=1}
 
 ## Report
-A detailed PDF report with visuals and insights is included in the repository (Sales_Analysis_Report.pdf). :contentReference[oaicite:2]{index=2}
+A detailed PDF report with visuals and insights is included in the repository (Sales_Analysis_Report.pdf).
 
 ## Tools Used
 - Power BI  
